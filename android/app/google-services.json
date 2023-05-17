@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "267751924050",
+    "project_id": "campusbites-f8e6c",
+    "storage_bucket": "campusbites-f8e6c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:267751924050:android:6af04f4ca699cc85d15a8b",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "267751924050-ug86andbgn7gq18sifk588nbnhvj2blu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjyr4WEzFFCTsOwncLuNoloTn5gwHvWZM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "267751924050-ug86andbgn7gq18sifk588nbnhvj2blu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
